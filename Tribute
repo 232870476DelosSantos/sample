@@ -1,0 +1,40 @@
+<head>
+	<title>Lebron James Tribute</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+<body>
+	<div class="container">	
+		<div id="main">
+			<div class="header">	
+						<h1 id="title">Lebron James</h1>
+						<p>Better than Michael Jordan</p>
+			</div>
+			<div id="img-div">
+				<img src="https://www.tampabay.com/resizer//gdBh9bVe6etQ8nyefD7G0XnqQ9c=/1140x641/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/6BSL5DHGARD45N3VMGYFDYFA74.jpg" id="image">
+				<blockquote id="img-caption">A picture of the greatest basketball player that ever lived</blockquote>
+			</div>
+			<div id="tribute-info">
+				<h2>Here is Why Lebron is the goat</h2>
+				<ul>
+					<li>3× NBA champion </li>
+					<li>3× NBA Finals MVP</li>
+					<li>4× NBA Most Valuable Player </li>
+					<li>16× NBA All-Star </li>
+					<li>3× NBA All-Star Game MVP</li>
+					<li>12× All-NBA First Team</li>
+					<li>2× All-NBA Second Team </li>
+					<li>5× NBA All-Defensive First Team</li>
+					<li>NBA Rookie of the Year </li>
+					<li>NBA All-Rookie First Team </li>
+					<li>NBA scoring champion</li>
+					<li>NBA assists leader</li>
+					<li>Most importantly him being better than Michael Jordan makes him the goat</li>
+				</ul>
+			</div>
+			<p>For more info check out this <a href="https://www.youtube.com/watch?v=2KltPcZv6RM" id="tribute-link" target="_blank">youtube video</a></p>
+		</div>
+	</div>
+  
+  <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+</body>
